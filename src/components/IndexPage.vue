@@ -49,6 +49,9 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.hero-body {
+    padding: 0;
+}
 .app-info {
     flex-direction: column;
     display: flex;
