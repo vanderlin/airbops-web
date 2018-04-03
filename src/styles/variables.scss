@@ -1,0 +1,11 @@
+$main-font: 'Nunito', sans-serif;
+
+$yellow-color: #FEC92E;
+
+// override bulma
+$text: white;
+$family-sans-serif: $main-font;
+$family-primary: $main-font;
+$family-monospace: $main-font;
+
+$body-background-color: $yellow-color;
